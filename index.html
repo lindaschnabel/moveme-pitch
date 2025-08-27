@@ -1,7 +1,6 @@
 <!DOCTYPE html>
 <html lang="en">
 
-
 <!--Hello digital composer! Welcome to my Elevator Pitch Generator web design tool, powered by Stasis Theory. I'm glad you found it--we're going to adapt a 2,000 year old formula to help you pitch an idea, explaining who you are and what you want, why it's important, and what it will do for your audience. I use this document in my Technical Communications classes at the University of Pittsburgh to teach my students a little bit about rhetoric, and a little bit about computer science. Just follow along and with comments like this, and you will make a really cool web documemt that helps pitch your idea and learn a little bit about coding.
 
 You could make web presentations the easy way by creating a pdf's or powerpoint, or you could do a little more work to better understand these digital tools that you use everyday to (re)present yourself and connect with others in virtual spaces. And this last bit is an important point! If we really want to be makers, if we really want to be creative, then we need to understand our tools and how they work.
@@ -23,6 +22,8 @@ BTW. You can leave these faded comments be, or delete them. They are but road si
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1">
 <link rel="stylesheet" type="text/css" href="style.css">
+  <!--We've added Google Fonts to The Webtext Generator. Go to https://www.w3schools.com/howto/howto_google_fonts.asp to find fonts and add them to this stylesheet link and to the html selector on style.css-->
+  <link href='https://fonts.googleapis.com/css?family=Roboto' rel='stylesheet'>
 </head>
 
 <body>
@@ -32,85 +33,83 @@ BTW. You can leave these faded comments be, or delete them. They are but road si
 <div class="hero-image">
   <div class="hero-text">
       <h1>Elevator Pitch Generator</h1>
-      <h6>Powered by Stasis Theory</h6>
+      <h2>Powered by Stasis Theory</h2>
   </div>
 </div>
 
 <!--in this next section you need to answer the first question of stasis, that of conjecture. What is the problem? Can it be solved?-->
 
 
-<div class="textblock" style="text-align: left">
+<div class="text-block" style="text-align: left">
   <h2>Conjecture</h2>
-    <h3>Answer the questions of conjecture: What is the problem and how will your product/service/etc. solve it? Make an assertive statement that resonates with your audience.</h3>
+    <p>Answer the questions of conjecture: What is the problem and how will your product/service/etc. solve it? Make an assertive statement that resonates with your audience.</p>
     </div>
 
 <!--Add more photos to your project folder for a photo grid, making sure the files end in .jpg or .png and replace/add to the names on the grid below on this html file. You can add more images if you wish, or subtract...see what happens--you have to be playful to find out how things work.-->
 
-<div class="photogrid">
+  <div class="flexbox-container">
     <div class="row">
-  <div class="column">
-    <img src="pgrid1.jpg" alt= "descibe image here for accessibility issues">
-    <img src="pgrid2.jpg" alt= "descibe image here for accessibility issues">
+        <div class="column">
+            <img src="pgrid1.jpg" alt="describe the image HERE for accessibility purposes">
+            <img src="pgrid2.jpg" alt="describe the image HERE for accessibility purposes">
         </div>
-<div class="column">
-    <img src="pgrid3.jpg" alt= "descibe image here for accessibility issues">
-    <img src="pgrid4.jpg" alt= "descibe image here for accessibility issues">
+        <div class="column">
+            <img src="pgrid3.jpg" alt="describe the image HERE for accessibility purposes">
+            <img src="pgrid4.jpg" alt="describe the image HERE for accessibility purposes">
         </div>
-<div class="column">
-    <img src="pgrid5.jpg" alt= "descibe image here for accessibility issues">
-    <img src="pgrid6.jpg" alt= "descibe image here for accessibility issues" >
-
+        <div class="column">
+            <img src="pgrid5.jpg" alt="describe the image HERE for accessibility purposes">
+            <img src="pgrid6.jpg" alt="describe the image HERE for accessibility purposes">
+        </div>
+    </div>
+        <p><i>Add a caption.</i></p>
   </div>
- </div>
-</div>
 
 <!--You can't break this thing! Right? Control Z. Comtrol Z. Control Z...-->
 
-<div class="textblock" style="text-align: left">
-    <h2>Definition</h2>
-
-    <h3>Let's address some of questions of definition and better qualify your conjecture. Flesh it out. Get specific.</h3>
+<div class="text-block" style="text-align: left">
+  <h2>Definition</h2>
+    <p>Let's address some of questions of definition and better qualify your conjecture. Flesh it out. Get specific.</p>
 </div>
 
 
-    <!--Replace the image here. You can also control image width and height %.-->
+<!--Control image properties using CSS frame selector.)-->
 
- <img src="el2.jpg" alt="descibe image here for accessibility issues" class="center-img" style="width:50%;height:50%;">
+<img class="frame" src="el2.jpg" width="50%" alt="describe the image HERE for accessibility purposes">
+    <div class="caption">
+      <p><i>Add a caption</i></p>
+    </div>
 
-
-
-
-
-
-<div class="textblock" style="text-align: left">
+<div class="text-block" style="text-align: left">
   <h2>Quality</h2>
-     <h3>We are at the question of quality: why is solving this problem important? Who are the stakeholders? What happens if we don't do anything? What are the costs of solving/not solving the problem/issue?</h3>
+     <p>We are at the question of quality: why is solving this problem important? Who are the stakeholders? What happens if we don't do anything? What are the costs of solving/not solving the problem/issue?</p>
     </div>
 
 
-    <div>
+  <div class="image-container">
+    <img src="el3.jpg" alt="describe image here">
+      <div class="image-container-text">
+        <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit.</p>
+      </div>
+  </div>
 
- <img src="el3.jpg" alt="descibe image here for accessibility issues" class="center-img" alt="my feet in water" style="width:100%;height:100%;">
-    </div>
 
 
 
-<div class="textblock" style="text-align: left">
+<div class="text-block" style="text-align: left">
   <h2>Policy</h2>
-
-    <h3>Now we need to address the question of policy: moving forward, what's your plan? Why are you and your solution right for the job? What can you/your product or service do specifically for the audience?</h3>
+<p>Now we need to address the question of policy: moving forward, what's your plan? Why are you and your solution right for the job? What can you/your product or service do specifically for the audience?</p>
     </div>
 
 
 <div class="parallax"></div>
 
 
-
-<div id="logo">
-    <img src="hero.jpg" alt="image of elevator doors" style="max-width:25%;max-height:25%;">
-        <p><b>generated by <a href="https://pitt-fuego.github.io/Pitt-Fuego-Coding-Tools/">Pitt Fuego</a></b></p>
-          <p><em>Why make a spark when you can light a fire?</em></p>
-</div>
+  <div class="logo">
+            <img src="hero.jpg" alt="add alt text" style="width:25%;">
+            <p><b>generated by <a href="https://pitt-fuego.github.io/Pitt-Fuego-Coding-Tools/">Pitt Fuego</a></b></p>
+            <p><em>Why make a spark when you can light a fire?</em></p>
+  </div>
 
 
 <!--Add footer here-->
@@ -119,141 +118,143 @@ BTW. You can leave these faded comments be, or delete them. They are but road si
      </html>
 
 
+<!--Looking to add components? You've come to the right place. Copy and paste Code Snippets and add to the body section. Adjust class CSS properties on style.css.
+
+
+    ***Add Text block***
+
+    (Format textblock using inline styling: text-align: left, center, justify, right. To improve accessibility, always left-align text longer than three lines; Format text: <i>italics</i>; <b>bold</b>; <u>underline</u>; <mark>highlight</mark>; <sup>superscript</sup>; <sub>subscript</sub>; Link Website: <a href="link">LinkName</a>; Line Breaks: <br></br>;
+
+  <div class="text-block" style="text-align: left">
+    <h2>Header</h2>
+       <p>We recommend using our mobile-ready text sizing. Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>
+  </div>
 
 
 
-     <!--Looking to add components? You've come to the right place. Copy and paste Code Snippets and add to the body section. Adjust class properties on style.css.
+    ***Add Pull Quote***
 
+    (Format text: Italics: <i>italics</i>; Bold: <b>bold</b>. Change font and font size using CSS)
 
-     ***Add Text Block***
-
-    (Format textblock using inline styling: text-align: left, center, justify, right; Format text: Italics: <em>italics</em>; Bold: <b>bold</b>; Link Website: <a href="link">LinkName</a>; Link Asset: <a href=filename.pdf>FileName</a>; Line Breaks: <br></br>; Tip for composing longer content: use <h3> and <p> instead of <h2> and <h3>)
-
-     <div class="textblock" style="text-align: left">
-         <h2>Header</h2>
-         <h3>We recommend using our mobile-ready text sizing. Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</h3>
-     </div>
+  <div class="pull-quote" style="text-align: center">
+    <h2>Excepteur sint occaecat cupidatat non proident!</h2>
+  </div>
 
 
 
-     ***Add Block Quote***
+    ***Bulleted Points or List***
 
-     (Format text: Italics: <em>italics</em>; Bold: <b>bold</b>. For more stylings, find blockquote class on style.css)
+    (Nest within text-block or style using CSS. Change <ul> to <ol> in HTML to switch from unordered list to ordered list.)
 
-     <div class="blockquote" style="text-align: center">
-         <h2>Excepteur sint occaecat cupidatat non proident!</h2>
-     </div>
+  <div>
+    <ul>
+      <li>first</li>
+      <li>second</li>
+      <li>third</li>
+    </ul>
+  </div>
 
 
 
-     ***Add Bulleted Points to Textblock***
+    ***Add Link that Looks Like a Button***
 
-     (Change <ul></ul> to <ol></ol> to change from unordered list to ordered list. For more stylings, find the ul/li classes on style.css)
+    (Clearly label link action. For more stylings, find button-box class properties on style.css)
 
-     <div class= "ul">
-             <li>first</li>
-             <li>second</li>
-             <li>third</li>
-     </div>
+  <div class="button-box">
+    <a href=""https://pitt-fuego.github.io/Pitt-Fuego-Coding-Tools/"" class="button">Go to Pitt Fuego Tools</a>
+  </div>
 
-     -or- (try a nested list)
 
-     <div class="ul">
-         <li>Coffee</li>
-         <li>Tea
-           <ul>
-             <li>Black tea</li>
-             <li>Green tea</li>
-           </ul>
-          </li>
-         <li>Milk</li>
+
+    ***Add CSS Flexbox Container with Placeholder Images***
+
+    (Add or subtract columns. Control column width using CSS.)
+
+  <div class="flexbox-container">
+    <div class="row">
+        <div class="column">
+            <img src="pgrid1.jpg" alt="describe the image HERE for accessibility purposes">
+            <img src="pgrid2.jpg" alt="describe the image HERE for accessibility purposes">
+        </div>
+        <div class="column">
+            <img src="pgrid3.jpg" alt="describe the image HERE for accessibility purposes">
+            <img src="pgrid4.jpg" alt="describe the image HERE for accessibility purposes">
+        </div>
+        <div class="column">
+            <img src="pgrid5.jpg" alt="describe the image HERE for accessibility purposes">
+            <img src="pgrid6.jpg" alt="describe the image HERE for accessibility purposes">
+        </div>
+    </div>
+        <p><i>Add a caption.</i></p>
+  </div>
+
+
+
+    ***Add Image Frame and Filters***
+
+    (Control image width using inline styling. Adjust "frame" class properties using CSS.)
+
+  <img class="frame" src="feet1.jpg" width="50%" alt="describe the image HERE for accessibility purposes">
+    <div class="caption">
+      <p><i>Add a caption</i></p>
+    </div>
+  
+
+
+    ***Add Polaroid***
+
+    (Control image width using CSS.)
+
+  <div class="polaroid">
+    <img src="feet1.jpg" alt="describe the image HERE for accessibility purposes">
+      <div class="polaroid-caption">
+        <p><i>Add a caption</i></p>
       </div>
+  </div>
 
 
 
-      ***Add a Button***
+      ***Add Image Container with Text Box***
 
-      (Clearly label button for accessibility purposes. If this is not possible, include: aria-label=”label for accessibility purposes.” For more stylings, find button class on style.css)
+      (Control Image Container properties using CSS.)
 
-      <div class="buttonbox">
-         <a href="https://pitt-fuego.github.io/Pitt-Fuego-Coding-Tools/" class="button" aria-label="">Button</a>
+  <div class="image-container">
+    <img src="feet1.jpg" alt="describe image here">
+      <div class="image-container-text">
+        <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit.</p>
       </div>
+  </div>
 
 
 
+    ***Add Parallax Window***
 
-     ***Embed YouTube Video***
+      (Adjust properties using parallax class on style.css)
 
-     <div class="video">
-      <div class="video-container">
-        <<iframe width="560" height="315" src="https://www.youtube.com/embed/PhPLTpqG0pU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>>
-      </div>
-        <p>Add a caption.</p>
-     </div>
-
-
-
-     ***Add a Standard Image***
-
-     (Control image properties with inline width value.)
-
-     <img src="fuego.jpg" alt="describe the image HERE for accessibility purposes" style="width:30%;" class="center-img">
-     <p style="text-align: center"><em>Add a caption.</em></p>
+  <div class="parallax"></div>
+    <div class="caption">
+      <p><i>Add a caption.</i></p>
+  </div>
 
 
 
-     ***Add Image Block with Padding and Caption*** (Control image properties with inline width value.)
+    ***Embed YouTube Video***
 
-     <div class="imgageblock">
-         <img src="fuego.jpg" alt="describe the image HERE for accessibility purposes" style="width:100%;">
-          <p style="text-align: center"><em>Add a caption.</em></p>
-     </div>
-
-
-
-     ***Add a Photo Grid***
-
-     <div class="photogrid">
-     <div class="row">
-         <div class="column">
-             <img src="pgrid1.jpg" alt="describe the image HERE for accessibility purposes">
-             <img src="pgrid2.jpg" alt="describe the image HERE for accessibility purposes">
-         </div>
-         <div class="column">
-             <img src="pgrid3.jpg" alt="describe the image HERE for accessibility purposes">
-             <img src="pgrid4.jpg" alt="describe the image HERE for accessibility purposes">
-         </div>
-         <div class="column">
-             <img src="pgrid5.jpg" alt="describe the image HERE for accessibility purposes">
-             <img src="pgrid6.jpg" alt="describe the image HERE for accessibility purposes">
-         </div>
-     </div>
-         <p><em>Add a caption.</em></p>
-     </div>
+  <div class="video">
+    <div class="video-container">
+       <iframe width="560" height="315" src="https://www.youtube.com/embed/PhPLTpqG0pU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+    </div>
+       <p><i>Add a caption.</i></p>
+  </div>
 
 
+    ***Add Copyright Footer***
 
-     ***Add a Parallax Window***
-
-     (To adjust window, find parallax class on style.css)
-
-     <div class="parallax"></div>
-
+  <div class="footer">
+    <p><i>Copyright Your Name, Year.</i></p>
+  </div>
 
 
-     ***Add a Copyright Footer***
+    ***Need something that's not here? Go to https://www.w3schools.com to find all kinds of resources to facilitate your code learning.***
 
-     <div id="footer">
-       <p>Copyright Your Name, Year.</p>
-     </div>
-
-
-
-
-     ***Need something that's not here? Then you probably don't need it. But okay...go to w3 Schools***
-
-
-
-     Looking to publish this webtext in GitHub? Here are your next steps:
-
-     Sign in to GitHub. Create a new repository. Name it. Click “uploading an existing file,” then select/drag and drop all of your files... all of them, index.html. style.css, readme, and your image assets. Click "commit." Now go to your repository "settings." Scroll down to "Pages." Here you will change "source" from "none" to "main" branch. This will publish your webtext online. Copy your URL from this settings page...and now it's time to circulate your webtext! Peace and love only, Stephen Quigley, University of Pittsburgh, 2021.-->
+     Peace and love only, Stephen Quigley, University of Pittsburgh, 2021.-->

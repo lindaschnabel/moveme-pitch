@@ -4,18 +4,18 @@ It's true. The Greeks invented the elevator, and quickly realized the awkward co
 
 Open this generator and follow the directions to utilize the available means of persuasion to concisely language exactly what you want to say. The result: an elevator pitch. Ding! - Doors Closing - How high do you want to go?"
 
-View the [Demo](https://open-fuego.github.io/elevator-pitch-generator) 
+View the [Demo](https://pitt-fuego.github.io/elevator-pitch-generator) 
 
 
 ## Get started!
 
-1. Go to the [Elevator Pitch Repository](https://github.com/Open-Fuego/elevator-pitch-generator)
+1. Go to the [Elevator Pitch Repository](https://github.com/Pitt-Fuego/elevator-pitch-generator)
 
 2. Click the green "**Code**" button, then "**Download ZIP**" to your local computer. 
 
 3. Find this folder in your downloads. Move this folder to a secure place. You will return to this folder to manage your files and other assets like images, pdfs, etcetera. 
 
-4. Download and/or open a text editor like [atom.io](https://atom.io) or [notepad-plus-plus.org](notepad-plus-plus.org). 
+4. Download and/or open a code editor. We recommend [Visual Studio Code](https://code.visualstudio.com/Download). 
 
 5. Use the text editor to open the **index.html** documents and **style.css** from your project folder.  
 
@@ -28,6 +28,6 @@ View the [Demo](https://open-fuego.github.io/elevator-pitch-generator)
 9. Test the URL in a browser. Magic, no? Actually, it's computer science.  
 
 
-Check out our other cool coding tools [HERE](https://open-fuego.github.io/Open-Fuego-Coding-Tools/)
+Check out our other cool coding tools [HERE](https://pitt-fuego.github.io/Pitt-Fuego-Coding-Tools/)
 
 
