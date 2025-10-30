@@ -95,13 +95,14 @@ Always prioritize safety, proper form, and gradual progression.
 - Motivation/Accountability --> SystemMemory/motivationAccountabilityMemoryFile.docx
 
 
-# recipes 
+# Recipes Section 
 Include a nutrition assistant module that gives calorie targets and recipe recommendations based on user’s age, gender, weight, activity, and dietary restrictions. Pull data from the uploaded files.
 
 # Testing Prompts #
 
 
 # System Output #
+
 
 
 
