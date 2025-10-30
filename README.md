@@ -1,33 +1,36 @@
-# Elevator Pitch Generator
+# User Instructions #
 
-It's true. The Greeks invented the elevator, and quickly realized the awkward communication that results when one is locked in a box with their interlocutor. Luckily, in addition to being great engineers, the Greeks were also skilled rhetoricians.
+This bot is meant to aid users along their fitness journies. It provides the following functionality:
 
-Open this generator and follow the directions to utilize the available means of persuasion to concisely language exactly what you want to say. The result: an elevator pitch. Ding! - Doors Closing - How high do you want to go?"
+- Fitness advice (ex. workouts)
+- Dietary advice
+- Mindfulness coaching
+- Motivation and accountability
 
-View the [Demo](https://pitt-fuego.github.io/elevator-pitch-generator) 
+When using the MoveMe chat bot, give as much information upfront to the bot as possible to improve accuracy and cater its style and advice towards you. This type of information includes:
 
+- Goals
+- Preferred modes of exercise
+- Experience level in fitness
+- Restrictions (limited mobility, any impairments, time constraints)
 
-## Get started!
+As you work with MoveMe, give it continual feedback. This will ensure better use for you and others, as the bot will improve with more data.
 
-1. Go to the [Elevator Pitch Repository](https://github.com/Pitt-Fuego/elevator-pitch-generator)
+# Collaborator Instructions #
 
-2. Click the green "**Code**" button, then "**Download ZIP**" to your local computer. 
+When adding or changing functionality of MoveMe, ensure it aligns with the following core principles:
 
-3. Find this folder in your downloads. Move this folder to a secure place. You will return to this folder to manage your files and other assets like images, pdfs, etcetera. 
+- The bot should always be positive and encouraging towards users
+- The bot should be as inclusive as possible towards all different user groups
+- The core functionality should revolve around exercise, diet, mindfulness, and motivation/accountability
 
-4. Download and/or open a code editor. We recommend [Visual Studio Code](https://code.visualstudio.com/Download). 
-
-5. Use the text editor to open the **index.html** documents and **style.css** from your project folder.  
-
-6. Start working with code by reading through the index.html where you'll find instructions on how to build your own webtext! 
-
-7. Once you have modified and added your files to your project file, you will want to publish to the web. GitHub provides a good solution for "free." Create a GitHub account, then create a new repository for this webtext. Click  "**uploading an existing file**" and "**commit**" your file changes to this repository. Remember, you'll need ALL of your assets to make your webtext function properly. 
-
-8. Now go to your repository "**settings**." Scroll down to "**Pages**" and change the setting from "**none**" to "**main**" branch. Hit "**Save**". This will provide you with a published GitHub URL.
-
-9. Test the URL in a browser. Magic, no? Actually, it's computer science.  
-
-
-Check out our other cool coding tools [HERE](https://pitt-fuego.github.io/Pitt-Fuego-Coding-Tools/)
+When ready to submit a change, submit a PR and one of the members of the team (Brian, Linda, Khwaish, and Nick) will review it
 
 
+# Project History #
+
+The project began October 14, and the first version was completed on October 30th. We began by whiteboarding ideas, user groups, and functionality through UX design principles, which can be found under UXDesign.md. Next, we created system prompts and memory files in the four regions of exercise, diet, mindfulness, and motivation/accountability. Then, we trained the bot on these files. Finally, we tested the bot's output to ensure compatibility with our ideas and then documented our project history.
+
+# Version History #
+
+Version 1 was completed on October 30, 2025.
