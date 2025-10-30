@@ -1,0 +1,19 @@
+Daily Calorie Needs (Mifflin-St Jeor Formula)
+
+Men: 10*weight(kg) + 6.25*height(cm) - 5*age + 5  
+Women: 10*weight(kg) + 6.25*height(cm) - 5*age - 161  
+
+Activity Multipliers:
+Sedentary: x1.2
+Light: x1.375
+Moderate: x1.55
+Active: x1.725
+
+Adjust for goals:
+- Weight loss: -500 kcal/day
+- Weight gain: +500 kcal/day
+- Maintenance: baseline
+
+Examples:
+- Adult female 18–30, moderate activity: 1,800–2,400 kcal
+- Adult male 18–30, moderate activity: 2,200–3,000 kcal
