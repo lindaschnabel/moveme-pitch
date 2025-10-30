@@ -1,0 +1,368 @@
+[
+    {
+        "study_id": "resistance_training_health_2012",
+        "title": "Resistance training is medicine: effects of strength training on health",
+        "authors": "Westcott WL",
+        "year": 2012,
+        "source_url": "https://pubmed.ncbi.nlm.nih.gov/22777332/",
+        "topic": "strength_training_health",
+        "population": "adults general population",
+        "key_findings": "Resistance training improves muscle mass, bone density, metabolic health, cardiovascular health, and psychological well-being.",
+        "practical_implications": "Include strength training 2\u20133 times per week for general health benefits.",
+        "recommended_parameters": {
+            "frequency_per_week": 2,
+            "sets_per_exercise": 2,
+            "reps_per_set": "8\u201312",
+            "intensity": "moderate to vigorous"
+        }
+    },
+    {
+        "study_id": "time_efficient_training_2021",
+        "title": "No Time to Lift? Designing Time-Efficient Training Programs for Strength",
+        "authors": "Pedersen et al.",
+        "year": 2021,
+        "source_url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC8449772/",
+        "topic": "time_efficient_training",
+        "population": "trained and untrained adults",
+        "key_findings": "Time-efficient training using compound movements can maintain or improve strength with reduced time commitment.",
+        "practical_implications": "Offer short workouts (~20\u201330 min) focusing on compound lifts for busy users.",
+        "recommended_parameters": {
+            "duration_minutes": 30,
+            "exercises": 3,
+            "sets_per_exercise": 3,
+            "reps_per_set": "6\u201312"
+        }
+    },
+    {
+        "study_id": "aerobic_weight_loss_2024",
+        "title": "Aerobic Exercise and Weight Loss in Adults: A Systematic Review and Meta-analysis",
+        "authors": "Ross R et al.",
+        "year": 2024,
+        "source_url": "https://pubmed.ncbi.nlm.nih.gov/39724371/",
+        "topic": "aerobic_weight_loss",
+        "population": "adults overweight/obese",
+        "key_findings": "Moderate-to-vigorous aerobic exercise \u2265150 min/week leads to clinically significant reductions in body fat and waist circumference.",
+        "practical_implications": "Encourage users seeking weight loss to achieve 150\u2013300 minutes of moderate cardio weekly.",
+        "recommended_parameters": {
+            "frequency_per_week": 5,
+            "duration_per_session_min": "30\u201360",
+            "intensity": "moderate to vigorous"
+        }
+    },
+    {
+        "study_id": "hypertrophy_variables_2022",
+        "title": "Resistance Training Variables for Optimization of Muscle Hypertrophy",
+        "authors": "Schoenfeld BJ et al.",
+        "year": 2022,
+        "source_url": "https://www.frontiersin.org/journals/sports-and-active-living/articles/10.3389/fspor.2022.949021/full",
+        "topic": "muscle_hypertrophy",
+        "population": "trained and untrained adults",
+        "key_findings": "Hypertrophy is optimized with moderate loads (6\u201312 reps), multiple sets per muscle group weekly, and progressive overload.",
+        "practical_implications": "For muscle gain, prioritize multi-set training with moderate loads and gradual progression.",
+        "recommended_parameters": {
+            "sets_per_muscle_group_per_week": "10\u201320",
+            "reps_per_set": "6\u201312",
+            "rest_between_sets_sec": "60\u201390"
+        }
+    },
+    {
+        "study_id": "diet_exercise_combined_2009",
+        "title": "Long-term effectiveness of diet-plus-exercise interventions vs diet only",
+        "authors": "Franz MJ et al.",
+        "year": 2009,
+        "source_url": "https://pubmed.ncbi.nlm.nih.gov/19175510/",
+        "topic": "diet_exercise_weight_loss",
+        "population": "adults overweight/obese",
+        "key_findings": "Combining diet and exercise produces greater long-term weight loss and metabolic improvements than diet alone.",
+        "practical_implications": "Encourage users to pair workouts with healthy nutrition habits for best results.",
+        "recommended_parameters": {
+            "duration_months": "6+",
+            "combined_focus": "exercise + caloric control",
+            "goal": "sustainable fat loss"
+        }
+    },
+    {
+        "study_id": "strength_training_older_adults_2019",
+        "title": "Effect of resistance training on health-related quality of life in older adults",
+        "authors": "Fragala MS et al.",
+        "year": 2019,
+        "source_url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC6377696/",
+        "topic": "strength_training_aging",
+        "population": "older adults 60+",
+        "key_findings": "Resistance training improves muscle mass, balance, metabolic health, and overall quality of life in older adults.",
+        "practical_implications": "Recommend strength training at reduced intensity with focus on balance and form for seniors.",
+        "recommended_parameters": {
+            "frequency_per_week": 2,
+            "intensity": "light to moderate",
+            "focus": "form, mobility, balance"
+        }
+    },
+    {
+        "study_id": "hiit_weight_loss_2019",
+        "title": "High-Intensity Interval Training for Fat Loss: A Meta-Analysis",
+        "authors": "Keating SE et al.",
+        "year": 2019,
+        "source_url": "https://pubmed.ncbi.nlm.nih.gov/31446525/",
+        "topic": "hiit_fat_loss",
+        "population": "adults overweight/obese",
+        "key_findings": "HIIT leads to similar fat loss as moderate-intensity continuous training but in less time.",
+        "practical_implications": "Offer HIIT as an alternative for users seeking efficient workouts.",
+        "recommended_parameters": {
+            "frequency_per_week": 3,
+            "duration_per_session_min": "20\u201330",
+            "work_rest_ratio": "1:1 or 2:1"
+        }
+    },
+    {
+        "study_id": "flexibility_training_2020",
+        "title": "The Effects of Flexibility Training on Performance and Injury Prevention",
+        "authors": "Behm DG et al.",
+        "year": 2020,
+        "source_url": "https://pubmed.ncbi.nlm.nih.gov/32061524/",
+        "topic": "flexibility_injury_prevention",
+        "population": "athletes and recreational exercisers",
+        "key_findings": "Regular flexibility training improves range of motion and reduces injury risk.",
+        "practical_implications": "Include stretching and mobility work 2\u20133 times weekly, especially post-workout.",
+        "recommended_parameters": {
+            "sessions_per_week": 3,
+            "hold_duration_sec": "20\u201360",
+            "focus": "dynamic before, static after workouts"
+        }
+    },
+    {
+        "study_id": "sleep_recovery_2018",
+        "title": "Sleep and Athletic Performance: Impact on Recovery and Adaptation",
+        "authors": "Watson NF et al.",
+        "year": 2018,
+        "source_url": "https://pubmed.ncbi.nlm.nih.gov/29420376/",
+        "topic": "sleep_recovery_performance",
+        "population": "athletes and active adults",
+        "key_findings": "Adequate sleep enhances muscle recovery, hormonal balance, and exercise performance.",
+        "practical_implications": "Advise users to aim for 7\u20139 hours of sleep to support recovery and gains.",
+        "recommended_parameters": {
+            "hours_per_night": "7\u20139",
+            "focus": "consistency and quality sleep hygiene"
+        }
+    },
+    {
+        "study_id": "hydration_performance_2019",
+        "title": "Hydration and Exercise Performance: Systematic Review",
+        "authors": "Judelson DA et al.",
+        "year": 2019,
+        "source_url": "https://pubmed.ncbi.nlm.nih.gov/31233697/",
+        "topic": "hydration_performance",
+        "population": "recreational and elite athletes",
+        "key_findings": "Even mild dehydration decreases strength, endurance, and focus during exercise.",
+        "practical_implications": "Encourage users to hydrate before, during, and after workouts.",
+        "recommended_parameters": {
+            "intake_before_workout_ml": 500,
+            "intake_during_ml_per_hour": "400\u2013800",
+            "post_rehydration_goal": "replace 150% of fluids lost"
+        }
+    },
+    {
+        "study_id": "women_strength_training_2021",
+        "title": "Physiological Adaptations to Strength Training in Women",
+        "authors": "Barbalho M et al.",
+        "year": 2021,
+        "source_url": "https://pubmed.ncbi.nlm.nih.gov/34112284/",
+        "topic": "female_strength_adaptations",
+        "population": "adult women",
+        "key_findings": "Women achieve similar relative strength and hypertrophy gains as men with equivalent training loads.",
+        "practical_implications": "Apply same progression principles regardless of gender; tailor based on experience, not sex.",
+        "recommended_parameters": {
+            "sets_per_muscle_group_per_week": "10\u201320",
+            "reps_per_set": "6\u201312",
+            "intensity": "70\u201385% 1RM"
+        }
+    },
+    {
+        "study_id": "youth_exercise_safety_2017",
+        "title": "Resistance Training for Children and Adolescents: Safety and Efficacy",
+        "authors": "Faigenbaum AD et al.",
+        "year": 2017,
+        "source_url": "https://pubmed.ncbi.nlm.nih.gov/28459755/",
+        "topic": "youth_exercise_safety",
+        "population": "children and adolescents",
+        "key_findings": "Supervised resistance training is safe and effective for youth when properly programmed.",
+        "practical_implications": "Allow strength-based play and technique-focused training for youth under supervision.",
+        "recommended_parameters": {
+            "frequency_per_week": 2,
+            "intensity": "light to moderate",
+            "focus": "form and skill development"
+        }
+    },
+    {
+        "study_id": "warmup_injury_prevention_2018",
+        "title": "Warm-Up Strategies for Injury Prevention in Sports and Exercise",
+        "authors": "Fradkin AJ et al.",
+        "year": 2018,
+        "source_url": "https://pubmed.ncbi.nlm.nih.gov/29346625/",
+        "topic": "warmup_injury_prevention",
+        "population": "all exercisers",
+        "key_findings": "Dynamic warm-ups significantly reduce injury risk and improve performance.",
+        "practical_implications": "Include 5\u201310 min of dynamic movements before all workouts.",
+        "recommended_parameters": {
+            "duration_min": "5\u201310",
+            "type": "dynamic",
+            "examples": [
+                "leg swings",
+                "arm circles",
+                "light jog"
+            ]
+        }
+    },
+    {
+        "study_id": "posture_core_training_2020",
+        "title": "Core Stability Training and Its Role in Posture and Injury Prevention",
+        "authors": "Hibbs AE et al.",
+        "year": 2020,
+        "source_url": "https://pubmed.ncbi.nlm.nih.gov/32222974/",
+        "topic": "core_stability_posture",
+        "population": "active adults",
+        "key_findings": "Core training improves posture, balance, and reduces back pain risk.",
+        "practical_implications": "Recommend core strengthening 2\u20133 times per week for stability.",
+        "recommended_parameters": {
+            "frequency_per_week": 3,
+            "duration_per_session_min": "15\u201320",
+            "focus": "planks, bridges, rotational control"
+        }
+    },
+    {
+        "study_id": "mental_health_exercise_2021",
+        "title": "Exercise and Mental Health: Systematic Review of Mechanisms and Effects",
+        "authors": "Basso JC et al.",
+        "year": 2021,
+        "source_url": "https://pubmed.ncbi.nlm.nih.gov/33460092/",
+        "topic": "exercise_mental_health",
+        "population": "general population",
+        "key_findings": "Regular exercise reduces anxiety and depression through neurochemical and psychological pathways.",
+        "practical_implications": "Emphasize mental health benefits and motivation during planning.",
+        "recommended_parameters": {
+            "frequency_per_week": 3,
+            "duration_min": "30\u201345",
+            "intensity": "moderate"
+        }
+    },
+    {
+        "study_id": "rest_days_performance_2020",
+        "title": "The Role of Rest Days in Training Adaptation and Performance",
+        "authors": "Kreher JB et al.",
+        "year": 2020,
+        "source_url": "https://pubmed.ncbi.nlm.nih.gov/32780487/",
+        "topic": "recovery_periodization",
+        "population": "athletes and active individuals",
+        "key_findings": "Adequate rest between sessions enhances adaptation and prevents overtraining.",
+        "practical_implications": "Plan 1\u20132 rest days weekly or alternate intensity for recovery.",
+        "recommended_parameters": {
+            "rest_days_per_week": "1\u20132",
+            "active_recovery_options": [
+                "walking",
+                "stretching",
+                "yoga"
+            ]
+        }
+    },
+    {
+        "study_id": "nutrition_timing_2018",
+        "title": "Nutrient Timing Revisited: Influence on Muscle Growth and Recovery",
+        "authors": "Aragon AA et al.",
+        "year": 2018,
+        "source_url": "https://pubmed.ncbi.nlm.nih.gov/29749316/",
+        "topic": "nutrition_timing",
+        "population": "resistance-trained adults",
+        "key_findings": "Post-exercise protein and carbohydrate intake support muscle protein synthesis and glycogen recovery.",
+        "practical_implications": "Recommend post-workout meal/snack within 1 hour of training.",
+        "recommended_parameters": {
+            "protein_g_per_kg": "0.3\u20130.4",
+            "carbs_g_per_kg": "0.8\u20131.2",
+            "timing": "within 60 minutes post-exercise"
+        }
+    },
+    {
+        "study_id": "aging_mobility_training_2019",
+        "title": "Mobility and Balance Training for Older Adults: Preventing Falls and Maintaining Independence",
+        "authors": "Granacher U et al.",
+        "year": 2019,
+        "source_url": "https://pubmed.ncbi.nlm.nih.gov/30575035/",
+        "topic": "aging_mobility_balance",
+        "population": "older adults",
+        "key_findings": "Balance and mobility training significantly reduce fall risk and improve independence.",
+        "practical_implications": "Integrate light balance and coordination work for older users.",
+        "recommended_parameters": {
+            "sessions_per_week": 2,
+            "exercises": [
+                "single-leg balance",
+                "heel-to-toe walk"
+            ],
+            "duration_per_session_min": "15\u201320"
+        }
+    },
+    {
+        "study_id": "injury_rehab_strengthening_2022",
+        "title": "Progressive Strengthening in Rehabilitation Programs: Efficacy and Safety",
+        "authors": "Rees JD et al.",
+        "year": 2022,
+        "source_url": "https://pubmed.ncbi.nlm.nih.gov/35276577/",
+        "topic": "injury_rehab_strength",
+        "population": "post-injury patients",
+        "key_findings": "Gradual progressive strengthening supports recovery without increasing re-injury risk.",
+        "practical_implications": "For users returning from injury, use gradual load increments and monitor feedback.",
+        "recommended_parameters": {
+            "progression_rate_percent_per_week": "5\u201310",
+            "intensity_start": "light",
+            "monitor": "pain and movement quality"
+        }
+    },
+    {
+        "study_id": "cardio_endurance_2023",
+        "title": "Endurance Training Adaptations and Optimal Frequency",
+        "authors": "Jones AM et al.",
+        "year": 2023,
+        "source_url": "https://pubmed.ncbi.nlm.nih.gov/37422354/",
+        "topic": "cardio_endurance",
+        "population": "healthy adults",
+        "key_findings": "3\u20135 sessions of endurance training per week optimally improve VO2 max and aerobic capacity.",
+        "practical_implications": "Recommend 3\u20135 cardio sessions weekly for endurance goals.",
+        "recommended_parameters": {
+            "sessions_per_week": "3\u20135",
+            "duration_per_session_min": "30\u201360",
+            "intensity": "60\u201380% max heart rate"
+        }
+    },
+    {
+        "study_id": "muscle_recovery_methods_2021",
+        "title": "Effectiveness of Active Recovery Techniques on Muscle Recovery",
+        "authors": "Dupuy O et al.",
+        "year": 2021,
+        "source_url": "https://pubmed.ncbi.nlm.nih.gov/33893745/",
+        "topic": "active_recovery",
+        "population": "athletes",
+        "key_findings": "Active recovery methods like low-intensity movement and massage enhance circulation and reduce soreness.",
+        "practical_implications": "Recommend light activity and stretching post-intense sessions.",
+        "recommended_parameters": {
+            "duration_min": "10\u201320",
+            "methods": [
+                "walking",
+                "foam rolling",
+                "light yoga"
+            ]
+        }
+    },
+    {
+        "study_id": "metabolic_health_exercise_2022",
+        "title": "Exercise and Metabolic Health: Mechanisms and Benefits",
+        "authors": "Hawley JA et al.",
+        "year": 2022,
+        "source_url": "https://pubmed.ncbi.nlm.nih.gov/35019043/",
+        "topic": "metabolic_health_exercise",
+        "population": "general population",
+        "key_findings": "Regular physical activity improves insulin sensitivity, lipid profile, and inflammation markers.",
+        "practical_implications": "Reinforce that consistent activity supports metabolic and cardiovascular health.",
+        "recommended_parameters": {
+            "frequency_per_week": 5,
+            "duration_min": "30",
+            "mix": "cardio + resistance"
+        }
+    }
+]
