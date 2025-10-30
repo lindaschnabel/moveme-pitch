@@ -111,7 +111,12 @@ Different diet questions include:
 # System Memory Files #
 
 - Motivation/Accountability --> SystemMemory/motivationAccountabilityMemoryFile.docx
-
+- Diets --> SystemMemory/Daily-Reference-Values-(DRVs)-under-the-New-NFL.pdf
+- Diets --> SystemMemory/Dietary_Guidelines_for_Americans_2020-2025.pdf
+- Diets --> SystemMemory/Reference-Daily-Intakes-(RDIs)-in-the-New-Nutrition-Facts-Label.pdf
+- Diets --> SystemMemory/allergiespage.pdf
+- Diets --> SystemMemory/caloriecountdata.pdf
+- Diets --> SystemMemory/typesofdiets.pdf
 
 # Recipes Section 
 Include a nutrition assistant module that gives calorie targets and recipe recommendations based on user’s age, gender, weight, activity, and dietary restrictions. Pull data from the uploaded files.
