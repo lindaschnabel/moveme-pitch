@@ -75,3 +75,20 @@ ___We verified all AI invention
 ___We verified all AI drafting
 
 ___We verified all AI revisions
+
+AI Use Documentation
+
+
+AI use: Helped come up with instructions for AI Chatbot
+
+Prompt(s):I am creating a fitness coach chatbot, come up with a set of instructions to clearly explain to the chatbot that It should Take a persons weight, ideal goal weight, activity level, and current strength into account when determining a workout plan for them depending on what muscle group they would like to focus on that day
+
+AI use: Condensing Weightlifting files
+
+Prompt(s): Condense These weightlifting Files into A readable format for a Chatbot
+
+AI use:
+
+Prompt(s):
+
+
